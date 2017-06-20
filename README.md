@@ -5,7 +5,7 @@
 
 
 ### Homepage -Desktop
-![PAB Home_Desktopscreenshot](https://github.com/rwever-projects/Palo-Alto-Bicycles/blob/master/PAB_HomePage.gif)
+![PAB Home_Desktopscreenshot](https://github.com/rwever-projects/Palo-Alto-Bicycles/blob/master/PAB_HomePage_Desktop.png)
 
 ### Homepage -Tablet
 ![PAB Home_Tabletscreenshot](https://github.com/rwever-projects/Palo-Alto-Bicycles/blob/master/PAB_HomePage_Tablet.png)
