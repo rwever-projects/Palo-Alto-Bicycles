@@ -16,3 +16,5 @@
 ### Objective:
 Design and develop a cross-browser compatible website for several platforms.
 Based on user research and personas.
+
+![PAB Home_Desktopscreenshot](https://github.com/rwever-projects/Palo-Alto-Bicycles/blob/master/PAB_HomePage.gif)
